@@ -15,4 +15,5 @@ echo $a."---".$x ;
 echo "<hr>";
 
 change($a);
-echo $a."---".$x ;
+echo $a."---".$x ;  
+echo 123;
